@@ -54,8 +54,7 @@ Make sure you have [Node.js](https://nodejs.org/) (with npm) or Yarn installed.
 ### 📥 Installation
 
 1. Clone the repository:
-        git clone [https://github.com/your-username/horizon-ielts-website.git](https://github.com/your-username/horizon-ielts-website.git)
-
+        git clone (https://github.com/Akshat87553/IELTS-website.git)
 
 2. Navigate to the project directory:
         cd horizon-ielts-website
