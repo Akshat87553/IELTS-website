@@ -8,7 +8,7 @@ const LeafSVG = () => (
     xmlns="http://www.w3.org/2000/svg"
     viewBox="0 0 24 24"
     fill="currentColor"
-    className="w-6 h-6 text-green-600"
+    className="w-6 h-6 text-teal-600"
   >
     <path d="M12 2C8 6 4 7 2 12c4 0 6-3 10-5 4 2 6 5 10 5-2-5-6-6-10-10z" />
   </svg>
